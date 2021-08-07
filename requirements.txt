@@ -1,0 +1,2 @@
+psycopg2-binary==2.9.1 #2.8.5 but who gives
+python-dotenv==0.18.0 #0.18.0
